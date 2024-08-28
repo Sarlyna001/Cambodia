@@ -35,8 +35,8 @@ def initialize_vars(self):
     self.selected_value = ""
     self.selected_year = 2024
     self.sub_directory = "taxcalc"
-    self.year_list = [2022, 2023, 2024, 2025, 2026, 2027]
-    #self.year_list = [2023, 2024, 2025, 2026, 2027]
+    self.year_list = [2022, 2023, 2024, 2025, 2026, 9999]
+    #self.year_list = [2023, 2024, 2025, 2026, 9999]
     # Include a check whether the years are valid by looking at the 
     # selected growfactors file
         
