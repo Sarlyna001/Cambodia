@@ -56,17 +56,15 @@
     "2025": 154819.0,
     "2026": 169331.0,
     "2027": 185140.0,
-    "2028": 194104.0,
+    "2028": 888888.0,
     "2029": 206471.0,
     "2030": 218838.0
   },
-  "percent_gdp": 0,
+  "percent_gdp": 1,
   "SALARY_VARIABLE": "CPI",
   "vat_id_var": "id_n",
-  "charts_ready": 1,
-  "chart_list": [
-    "cit_revenue_projection"
-  ],
+  "charts_ready": 0,
+  "chart_list": [],
   "show_error_log": 0,
   "verbose": 0,
   "pit": 0,
@@ -74,28 +72,5 @@
   "vat": 0,
   "data_start_year": 2022,
   "cit_id_var": "id_n",
-  "cit_functions_names_filename": "function_names_cit_cambodia.json",
-  "attribute_vars": [
-    "Sector_short"
-  ],
-  "cit_distribution_table": 0,
-  "pit_adjust_behavior": 0,
-  "cit_adjust_behavior": 0,
-  "vat_adjust_behavior": 0,
-  "sst_adjust_behavior": 0,
-  "tot_adjust_behavior": 0,
-  "pit_distribution_table": 0,
-  "pit_display_distribution_table": 0,
-  "pit_display_distribution_table_by_attribute": 0,
-  "cit_display_distribution_table": 0,
-  "cit_display_distribution_table_by_attribute": 0,
-  "vat_distribution_table": 0,
-  "vat_display_distribution_table": 0,
-  "vat_display_distribution_table_by_attribute": 0,
-  "sst_distribution_table": 0,
-  "sst_display_distribution_table": 0,
-  "sst_display_distribution_table_by_attribute": 0,
-  "tot_distribution_table": 0,
-  "tot_display_distribution_table": 0,
-  "tot_display_distribution_table_by_attribute": 0
+  "cit_functions_names_filename": "function_names_cit_cambodia.json"
 }
